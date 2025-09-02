@@ -2,6 +2,7 @@
 
 欢迎来到 **FoodieGuideFront** 项目的主页！  
 这是一个美食指南前端项目，旨在帮助用户轻松发现附近的美食、浏览餐厅详情、分享点评，提升你的美食探索体验。
+演示地址：https://www.createlibre.me/
 
 ---
 
@@ -33,7 +34,7 @@ FoodieGuideFront 是基于现代 Web 技术（如 React、TypeScript 等）开�
 - 🧑‍💻 **TypeScript**：静态类型增强项目可维护性
 - 🎨 **Styled Components / CSS Modules**：美观且可扩展的样式方案
 - 🔗 **Axios / Fetch**：高效与后端 API 通信
-- 🗺️ **地图 SDK（如高德/百度）**：实现餐厅定位与地图展示
+- 🗺️ **地图 SDK（如高德）**：实现餐厅定位与地图展示，*注意：使用地图功能前，将serviceConfig中MapKEY替换成你自己的
 
 ---
 
@@ -91,5 +92,5 @@ FoodieGuideFront 是基于现代 Web 技术（如 React、TypeScript 等）开�
 
 ---
 
-> 让每一道菜都成为生活中的美好回忆  
+> 让每一道菜都成为生活中的美好回忆!
 > **FoodieGuideFront —— 你的专属美食指南助手 🍔🍜🍕**
